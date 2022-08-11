@@ -1,0 +1,6 @@
+- title: Atlantic
+  key: atlantic
+  feedurl: https://www.theatlantic.com/feed/all/
+- title: The New York Times
+  key: nytimes
+  feedurl: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
